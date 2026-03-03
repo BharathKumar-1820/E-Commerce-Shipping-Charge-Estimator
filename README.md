@@ -377,8 +377,6 @@ This project is open source and available under the MIT License.
 
 ## 📞 Support
 
-For questions or issues, please contact: shreya.palit@jumbotail.com
+For questions or issues, please contact: bharathkumarbilakanti@gmail.com
 
 ---
-
-**Built with ❤️ for Jumbotail**
